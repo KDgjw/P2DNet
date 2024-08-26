@@ -6,11 +6,6 @@ Official code for P2DNet
 > **Moving Object Segmentation Network for Multi-View Fusion of Vehicle-Mounted LiDAR**,
 > Jianwang Gan, Guoying Zhang, Zhenhua Wang, Yijin Xiong.
 
-## NEWS
-
-- [2022-07-03] SMVF is accepted by ECCV 2022
-- [2022-03-07] SMVF achieves 1st place in [SemanticKITTI Moving Object Segmentation leaderboard](https://competitions.codalab.org/competitions/28894#results).
-![teaser](./imgs/smvf_semkitti-0.png)
 
 #### 1 Dependency
 

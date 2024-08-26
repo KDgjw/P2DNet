@@ -3,9 +3,8 @@
 
 Official code for P2DNet
 
-> **Sequential Multi-View Fusion Network for Fast LiDAR Point Motion Estimation**,
-> Gang Zhang, Xiaoyan Li, Zhenhua Wang. (https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136820282.pdf)
-> *Accepted by ECCV2022*
+> **Moving Object Segmentation Network for Multi-View Fusion of Vehicle-Mounted LiDAR**,
+> Jianwang Gan, Guoying Zhang, Zhenhua Wang, Yijin Xiong.
 
 ## NEWS
 

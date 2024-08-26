@@ -1,5 +1,5 @@
 # P2DNet
-![teaser](./imgs/overview-0.png)
+![teaser](./imgs/network_1.jpg)
 
 Official code for P2DNet
 

@@ -1,7 +1,7 @@
 # P2DNet
 ![teaser](./imgs/overview-0.png)
 
-Official code for SMVF
+Official code for P2DNet
 
 > **Sequential Multi-View Fusion Network for Fast LiDAR Point Motion Estimation**,
 > Gang Zhang, Xiaoyan Li, Zhenhua Wang. (https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136820282.pdf)

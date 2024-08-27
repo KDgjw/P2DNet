@@ -10,8 +10,8 @@ Official code for P2DNet
 #### 1 Dependency
 
 ```bash
-CUDA>=10.1
-Pytorch>=1.5.1
+CUDA>=11.1
+Pytorch>=1.13.1
 PyYAML@5.4.1
 scipy@1.3.1
 ```

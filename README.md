@@ -73,5 +73,5 @@ OMP_NUM_THREADS=6 torchrun --standalone --nnodes=1 --nproc_per_node=1 train.py
 #### 3 Evaluate Process
 
 ```bash
-OMP_NUM_THREADS=6 torchrun --standalone --nnodes=1 --nproc_per_node=1 evaluate
+OMP_NUM_THREADS=6 torchrun --standalone --nnodes=1 --nproc_per_node=1 evaluate.py
 ```

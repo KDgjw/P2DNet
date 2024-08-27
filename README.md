@@ -67,11 +67,11 @@ And download the [object bank](https://drive.google.com/file/d/1QdSpkMLixvKQL6QP
 ##### 2.3 Training Script
 
 ```bash
-python3 -m torch.distributed.launch --nproc_per_node=8 train.py --config config/config_smvf_sgd_ohem_vfe_k2_fp16_48epoch.py
+OMP_NUM_THREADS=6 torchrun --standalone --nnodes=1 --nproc_per_node=1 train.py
 ```
 
 #### 3 Evaluate Process
 
 ```bash
-python3 -m torch.distributed.launch --nproc_per_node=8 evaluate.py --config config/config_smvf_sgd_ohem_vfe_k2_fp16_48epoch.py --start_epoch 0 --end_epoch 47
+OMP_NUM_THREADS=6 torchrun --standalone --nnodes=1 --nproc_per_node=1 evaluate
 ```

@@ -1,7 +1,7 @@
 # P2DNet
 ![teaser](./imgs/network_1.jpg)
 
-Official code for P2DNet
+P2DNet code to be released soon
 
 > **Moving Object Segmentation Network for Multi-View Fusion of Vehicle-Mounted LiDAR**,
 > Jianwang Gan, Guoying Zhang, Yijin Xiong.
